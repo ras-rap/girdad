@@ -1,0 +1,17 @@
+Reference,Qty,Value,Footprint,Datasheet,Source,Price per unit,Total price
+"C1,C3,C7,C8,C10",5,100nF,Capacitor_SMD:C_0402_1005Metric,https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD,https://www.digikey.com/en/products/detail/kemet/C0402C104K8RACTU/789652,$0.10,$0.50
+C2,1,1UF,Capacitor_SMD:C_0402_1005Metric,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A105KO5NNNC_Spec_5-2-19.pdf,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A105KO5NNNC/3886725,$0.10,$0.10
+C4,2,4.7Uf,Capacitor_SMD:C_0402_1005Metric,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/863/CL05A475MP5NRNC_Spec.pdf,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A475MP5NRNC/3887140,$0.10,$0.20
+"C5,C6",2,100pF,Capacitor_SMD:C_0402_1005Metric,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05C101JB5NNNC_Spec.pdf,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05C101JB5NNNC/3886683,$0.10,$0.20
+R1,1,47K OHM,Resistor_SMD:R_0402_1005Metric,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-3&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=4-2176338-3,https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0402F47K/8576249,$0.10,$0.10
+"R2,R3,R4,R7",4,10K OHM,Resistor_SMD:R_0402_1005Metric,https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L,https://www.digikey.com/en/products/detail/yageo/RC0402JR-0710KL/726418,$0.10,$0.40
+"R5,R6",2,5.1K OHM,Resistor_SMD:R_0402_1005Metric,https://www.vishay.com/docs/28773/crcwce3.pdf,https://www.digikey.com/en/products/detail/vishay-dale/CRCW04025K10FKEDC/7928491,$0.10,$0.20
+J1,1,USB_C_Plug_USB2.0,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,https://gct.co/files/specs/usb4105-spec.pdf,https://www.digikey.com/en/products/detail/gct/usb4105-gf-a/11198441,$0.80,$0.80
+OSC1,1,ASE-xxxMHz,Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm,https://abracon.com/Oscillators/ASEseries.pdf,https://www.digikey.com/en/products/detail/abracon-llc/ASE-1-8432MHZ-L-C-T/1236871,$0.98,$0.98
+U1,1,CP2102N-Axx-xQFN28,Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf,https://www.digikey.com/en/products/detail/silicon-labs/CP2102N-A02-GQFN28/9863477,$4.67,$4.67
+U2,1,MCP2122-E/SN,MCP2122:SOIC8-N_MC_MCH,https://ww1.microchip.com/downloads/en/DeviceDoc/21894c.pdf,https://www.digikey.com/en/products/detail/microchip-technology/MCP2122-E-SN/704667,$1.01,$1.01
+U3,1,TFBS4711-TR1,TFBS4711 (2):CONN6_4711-TR1_VIS,https://www.vishay.com/docs/82633/tfbs4711.pdf,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TFBS4711-TR3/1681201,$4.59,$4.59
+,,,,,,,
+,,,,,,,
+,,,,,,,Total component price
+,,,,,,,$13.75
