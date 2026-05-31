@@ -6,7 +6,7 @@
 
 A modern USB-C dongle/device for IrDA SIR.
 
-![Render of GIrDAd](/images/render.png)
+![Render of GIrDAd](/images/Render.png)
 ## What is this?
 This is a IrDA VCOM device/dongle port thing, it has USB-C on one end, and an IrDA transceiver on the other.
 
